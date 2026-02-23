@@ -13,5 +13,5 @@ Not very fair in my opinion, but whatever fairs your phone.
 ***
 Authored by [melontini](https://github.com/melontini).
 
-[unlock-website]:https://www.fairphone.com/en/bootloader-unlocking-code-for-fairphone
+[unlock-website]:https://shop.fairphone.com/bootloader-unlocking-code-for-fairphone
 [verified-boot]:https://forum.fairphone.com/t/bootloader-avb-keys-used-in-roms-for-fairphone-3-4/83448/4
